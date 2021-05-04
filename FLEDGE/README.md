@@ -1,4 +1,7 @@
 
+
+##0
+
 Es folgt eine detailliertere Anleitung als bei https://github.com/fledge-iot/fledge
 
 Getestet mit:
